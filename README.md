@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,php,js" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=php,js,ts" /> <br /><br />
 ## FrameWork and Library
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,laravel," /> <br /><br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sousuke-code&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
